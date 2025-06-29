@@ -1,0 +1,1 @@
+Change the kernel function (from GetLogicalProcessorInformation to GetStdHandle) in kernel32.dll or kernelxp.dll to get apps to work.
